@@ -34,9 +34,7 @@ Componente web de verificación OTP con diseño moderno, efecto glassmorphism y 
 | CSS3 | Glassmorphism, animaciones y diseño responsive |
 | JavaScript (ES6+) | Lógica de verificación y Web Animations API |
 
----
-
-## 📁 Estructura del proyecto
+---
 
 ## 📁 Estructura del proyecto
 
