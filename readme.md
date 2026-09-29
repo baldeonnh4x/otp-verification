@@ -38,12 +38,12 @@ Componente web de verificación OTP con diseño moderno, efecto glassmorphism y 
 
 ## 📁 Estructura del proyecto
 
-otp-verification/
-├── index.html → estructura del componente
-├── style.css → estilos, efecto glass y animaciones
-├── app.js → lógica de verificación y animaciones JS
-└── img/
-└── Imagen.png → imagen de fondo para notar el blur
+## 📁 Estructura del proyecto
+
+- **`index.html`** → estructura del componente
+- **`style.css`** → estilos, efecto glass y animaciones
+- **`app.js`** → lógica de verificación y animaciones JS
+- **`img/Imagen.png`** → imagen de fondo para notar el blur
 
 
 ---
